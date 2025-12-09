@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "Smart Road-Safety System",
+  "description": "RoadMate is a comprehensive Smart Road-Safety System designed to enhance urban infrastructure through the power of Multimodal AI. The system functions as a unified platform that seamlessly integrates visual detection, data-driven analytics, and automated civic reporting to address road safety challenges effectively. The process begins with intelligent visual analysis, where the system utilizes computer vision to examine real-time images and videos. It instantly detects road hazards such as potholes, waterlogging, cracks, and broken signage, while simultaneously assessing their severity to prioritize maintenance efforts. Building on this visual data, the system incorporates a robust analytics engine that processes historical accident records. By analyzing key metrics—including accident frequency, high-risk locations, common causes, and time-of-day patterns—it identifies dangerous hotspots and provides actionable insights. Finally, to bridge the gap between detection and action, the system automates the civic reporting process. It synthesizes the detected hazard evidence and location-specific accident data to draft formal, professionally structured complaint letters. These reports are intelligently addressed to the relevant municipal authorities, ensuring that every observation is transformed into an actionable request for repair, thereby fostering safer roads and more responsive civic management."
+}
